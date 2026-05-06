@@ -21,9 +21,11 @@ By sharing these visualizations, we aim to provide a transparent resource for th
 ## Authors
 **Daniel Andres Fajardo Poveda**  
 *M.Sc. in Physics Candidate, Universidad de los Andes*
+e-mail: d.fajardo@uniandes.edu.co
 
 **Alejandro Garcia-Varela, PhD**  
 *Department of Physics, Universidad de los Andes, Colombia*
+e-mail: josegarc@uniandes.edu.co
 
 ---
-*For access to the full numerical catalog or the processing pipeline, please contact the author or refer to the associated thesis.*
+*For access to the full numerical catalog or the processing pipeline, please contact the authors or refer to the associated thesis.*
